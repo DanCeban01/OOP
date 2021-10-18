@@ -13,7 +13,7 @@ public class Main
         levoca.leters(t);
         levoca.voca(t);
 
-        words.tl(t);
-        words.tmow(t);
+        word.tl(t);
+        word.tmow(t);
     }
 }
