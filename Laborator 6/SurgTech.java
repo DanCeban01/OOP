@@ -1,4 +1,4 @@
-public class SurgTech extends Technologist;
+public class SurgTech extends Technologist
 {
 
 }
